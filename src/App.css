@@ -7,8 +7,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel Decorative', cursive;
 }
 
-
-
 .article {
   padding: 30px 20px;
 }
@@ -35,10 +33,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #666;
 }
 
-.article-title {
-  font-weight: 700;
-  color: #333;
-}
 
 .article-body {
   margin-top: 30px;

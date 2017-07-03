@@ -4,7 +4,7 @@ import Header from './Header'
 import SideAd from './SideAd'
 import OtherArticle from './OtherArticle'
 import Footer from './Footer'
-
+import ArticleHeader from './ArticleHeader'
 class App extends Component {
   render() {
     return (
@@ -12,7 +12,7 @@ class App extends Component {
         <Header />
           <main className="expanded row">
             <div className="large-8 medium-12 columns article">
-              <h2 className="article-title">Gold Madness - Fact or Fiction?</h2>
+              <ArticleHeader />
               <div className="avatar">
                 <img src="http://www.zbrushcentral.com/attachment.php?attachmentid=376082" alt="author" />
                 <div className="author-info">
