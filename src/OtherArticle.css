@@ -1,0 +1,12 @@
+.other-article img {
+  opacity: .8;
+  min-width: 100%;
+}
+
+.other-article:hover img {
+  opacity: 1;
+}
+
+.other-article:hover p {
+  opacity: 1;
+}

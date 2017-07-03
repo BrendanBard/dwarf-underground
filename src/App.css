@@ -130,18 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 0 0 5px black;
 }
 
-.other-article img {
-  opacity: .8;
-  min-width: 100%;
-}
 
-.other-article:hover img {
-  opacity: 1;
-}
-
-.other-article:hover p {
-  opacity: 1;
-}
 
 footer {
   height: 4em;
