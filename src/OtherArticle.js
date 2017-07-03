@@ -30,6 +30,8 @@ class OtherArticle extends Component{
                 </a>
               </div>
             </div>
+
+      
         )
     }
 }

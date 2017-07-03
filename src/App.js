@@ -7,6 +7,7 @@ import Footer from './Footer'
 import ArticleHeader from './ArticleHeader'
 import Avatar from './Avatar'
 import Article from './Article'
+import Comment from './Comment'
 
 class App extends Component {
   render() {
@@ -18,11 +19,13 @@ class App extends Component {
               <ArticleHeader />
               <Avatar />
               <Article />
+              <Comment />
             </div>
             <SideAd />
             <OtherArticle />
           </main>
           <Footer />
+          
       </div>
     );
   }
