@@ -13,7 +13,7 @@ class Comment extends Component {
     }
     handleSubmit(ev) {
         ev.preventDefault()
-        this.state.comment.map(comment)
+        //this.state.comment.map(comment)
         const newState = { ...this.state }
         newState.comment.push(this.state.name)
         newState.name = ''
